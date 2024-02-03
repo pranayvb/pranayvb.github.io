@@ -4,52 +4,76 @@ title: Hello
 ---
 
 
-## Introduction
+### whoami
 
-I am a graduate student at the University of Maryland, College Park, pursuing a Master's degree in Cybersecurity. I recently completed my 1st fall semester, achieving an excellent 3.73 GPA. I took interesting subjects like hacking of C programs and Unix binaries, network protocols and cloud security. Before joining UMD, I completed my Bachelor of Technology in Computer Science Engineering from SRM Institute of Science and Technology, Chennai in May 2023. With a profound interest in cybersecurity, I devote significant time to honing my skills and learning new competencies in this field. My enthusiasm also extends to cloud security, with a focus on Azure technologies. I am actively seeking a summer 2024 internship opportunity in cybersecurity, where I can apply my knowledge, enhance my skills, and contribute to impactful projects. If you have any relevant openings or insights to share, I welcome the opportunity to connect and discuss further.
+I'm Pranay Venkata Bhamidipati, and I have a keen interest in Cybersecurity, primarily in red teaming, but I am expanding my knowledge by diving into blue teaming as well.
+
+Currently, I am a Graduate student at the University of Maryland, College Park (Fall 2023 to Spring 2025), where I am pursuing a Masters of Engineering in Cybersecurity (M.Eng Cybersecurity). I successfully completed my first semester with an excellent GPA of 3.73 out of 4.0. During this semester, I gained a comprehensive understanding of diverse and in-depth security concepts through challenging and interesting courses such as ENPM691 - Hacking of C Programs and Unix Binaries, ENPM665 - Cloud Security, and ENPM694 - Networks and Protocols.
+
+I'm actively seeking summer 2024 internships in the US and eager to connect with security professionals and recruiters.
+
+<!--
+<I post blogs <a href="/blog" style="color:red;" rel="noopener">here</a>  and my  Linkedin -> <a href="#" class="fa fa-linkedin" href = "https://www.linkedin.com/in/rach1tarora/" target="_blank" rel="noopener" ></a> &nbsp; 
+
+ Add icon library 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+-->
 
 
-> point 1
-* Point 2
+<br>
+
+### Work Experience
 
 
-![test](https://media.discordapp.net/attachments/791571025368186890/1201302804841644225/image.png?ex=65c9536b&is=65b6de6b&hm=bc8890c2101df4b7225968ee8251ca9521aebbf954c4d8e20a7c0ca0629665ba&=&format=webp&quality=lossless&width=1014&height=889)
+1. Network Security Student Intern, Airtel, Hyderabad, India 02/2023 - 02/2023
+	* Engaged in intensive mentorship to excel in Network security aspects of Telecommunication.
+	* Grasped networking concepts and delved into security aspects of 3G, 4G, and 5G technologies.
 
-* point
-testest
+2. Defense Hacker Student Intern, Globalshala, Gurugram, India 07/2022 - 07/2022
+	* Collaborated with Illinois Tech University. Mastered network monitoring tools, cryptography, and bash scripting.
+	* Contributed to a Wireshark simulation project, meticulously inspecting packets for enhanced network analysis.
 
+3. Cybersecurity Intern, Hitachi Consulting, Hyderabad, India 09/2021 - 11/2021
+	* Acquired proficiency in Kali Linux cybersecurity tools, and social engineering attacks by working under a mentor.
+	* Executed a phishing attack simulation project to assess cybersecurity readiness and awareness
 
+4. Intern (Cybersecurity), Career Dreams Education, Jaipur, India 09/2021 - 09/2021
+	* Gained expertise in OWASP Top 10 attacks, VM’s and Linux OS.
+	* Led a Sniffing Attack simulation project, bolstering network security through vulnerability identification.
 
+5. Intern (Cybersecurity), Verzeo, Bangalore, India 7/2021 - 08/2021
+	* Assimilated SQL injections concepts, malware concepts, encryption/decryption concepts, and accomplished relevant projects.
+	* Achieved an outstanding Intern Performance certificate in recognition of demonstrating meritorious capability.
 
-
-## Curriculum i studied
-
-During my first fall semester, I delved into three pivotal areas of cybersecurity:
-Network Protocols:
-•	Explored data link layer concepts such as error detection, media access control, and addressing.
-•	Studied network layer topics like logical addressing, routing, and IP protocol.
-•	Learned about transport layer protocols TCP/UDP and session layer communication sessions.
-•	Developed proficiency in wireless networking with 802.11, LTE, and mobile IP.
-•	Acquired skills in TCP/IP analysis, infrastructure hardening, VPNs, and encryption.
-•	Delved into firewalls, Wireshark packet analysis, and advanced persistent threats.
-•	Studied common routing algorithms including link-state, distance vector, and hierarchical routing.
-Hacking of C Programs and Unix Binaries:
-•	Mastered secure C programming practices and principles.
-•	Learned techniques for security attacks like buffer overflows and format string vulnerabilities.
-•	Developed expertise in debugging C programs and understanding memory management.
-•	Explored machine language and assembly representations of C code.
-•	Analyzed C programs to identify and remediate memory corruption bugs.
-•	Explored exploitation of vulnerabilities in C programs by controlling flow and injecting payloads.
-Cloud Security:
-•	Acquired fundamentals of securing IaaS, PaaS, and SaaS cloud models.
-•	Learned to design and redesign secure cloud applications.
-•	Developed expertise in cloud identity and access management (IAM).
-•	Studied data protection techniques including encryption and access controls.
-•	Explored Amazon Web Services security capabilities and Microsoft Azure security features.
-•	Gained insight into cloud incident response, forensics, and vulnerability management.
-•	Examined compliance considerations for major cloud environments and conducted risk assessments.
-These courses equipped me with advanced skills in architecting secure networks, identifying vulnerabilities, and implementing robust cloud security measures.
+<br>
 
 
 
-- [introduction?](#introduction)
+### Industry Certifications
+
+
+- [(ISC)2 Certified in Cybersecurity](https://www.credly.com/badges/438557a4-698f-472a-ad9f-e75e5b00e14a)
+- [Microsoft Security, Compliance & Identity Fundamentals Certified (Exam SC-900)](https://www.credly.com/badges/79ddb0c0-8169-47cb-b014-fb51afe7e646)
+- [Microsoft Azure fundamentals Certified (Exam AZ-900)](hhttps://www.credly.com/badges/13fe171b-848f-47af-8133-5d6ed4ad2730)
+- [Microsoft Technology Associate Security Fundamentals Certified (Exam 98-367)](https://www.credly.com/badges/a26f7d16-bf80-4d6f-956a-5b461fbb5aae)
+- [Microsoft Certified: Cybersecurity Architect Expert](https://www.credly.com/badges/fcfbfadf-81a1-490a-85c0-73ed7d2cebb5) (SC-100)
+- [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/5b111be7-2ec8-441b-b77a-dbc61460dc7c) (SC-900)
+- 
+All certifications can be verified on credly <a href="https://www.credly.com/users/pranay-bhamidipati/badges" style="color:red;" rel="noopener">here</a>
+
+
+<br>
+
+### Education
+
+* Master of Engineering (M.Eng.) in Cybersecurity @ University of Maryland, College Park - UMD [**Current GPA-3.73/4.0 (Fall'23-Spring'25**]
+
+* Bachelor's degree in Computer Science and Engineering @ SRM Institute of Science and Technology, KTR, Chennai -[**Graduated in July 2023 with GPA 9.61/10.0 or 3.7/4.0**]
+
+<br>
+
+## Have any questions
+Do you have any questions? Feel free to reach out to me on my email <a href = "mailto:pbhamid1@umd.edu" target="_blank" rel="noopener"> pbhamid1@umd.edu </a> or on [LinkedIn](https://www.linkedin.com/in/pranay-bhamidipati-048b67210/).
+
+<br>

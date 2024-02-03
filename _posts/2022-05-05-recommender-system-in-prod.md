@@ -1,143 +1,75 @@
 ---
 layout: post
-title:  "You want to build a Recommender System in Prod"
-subtitle:  "(You haven’t done that before)"
-date:   2022-05-05 21:21:21 +0530
+title:  "Certification Skills"
+subtitle:  "Skills I learnt by studying and passing these certification exams"
+date:   2024-02-02 21:21:21 +0530
 tags: [general]
 redirect_from:
-  - general/recommender-system-in-prod
+  - general
 ---
   
 
-```
-> be you
-> have participated in kaggle recommender system competitions
-> datascientist.mp3
-> bossman says to recommend stuff for noobs
-> because they can’t search properly or whatever
-> ok bossman
-> no defined problem statement? 
-> no csv? 
-> no accuracy and mae test suite? 
-> no leaderboard?
 
-what do /b/?
-```
+## ISC2 Certified Cybersecurity 
 
-  
+I obtained this certification on 03/2023 which is valid till 02/2026. It covers key areas of cybersecurity including risk management, security controls, asset security, security architecture, security operations, incident response, cloud security, and security ethics.
 
-_Haha, noob. Ok let’s do this._
+* Learned best practices for developing and implementing security policies, cyber risk frameworks, security controls, and governance programs
+* Gained skills in asset identification/classification, implementing access controls, encryption, threat detection/monitoring technologies, and secure network architecture
+* Developed knowledge of security operations processes including vulnerability assessment, patch management, incident response, change management, disaster recovery, and BCP
+* Credential demonstrates expertise in architecting security solutions, risk mitigation, regulatory compliance, and integrating cybersecurity practices across on-prem, cloud, and hybrid environments.
+
+In summary, the ISC2 Certified Cybersecurity certification equipped me with comprehensive knowledge and versatile skills in security governance, architecture, operations, policies, controls, incident response, and risk management. These are crucial capabilities required for advanced cybersecurity roles across various industries. The certification validates my expertise to secure critical assets, respond to threats, and deliver robust cyber defenses tailored to modern on-premise, cloud, and hybrid environments.
 
 
 
-* * *
 
-  
 
-### \> Frame problem statement
 
-You are an adult now. Frame the problem statement yourself. Just ask a bunch of questions and keep reducing scope. If you can visualise the mathematical formulation you have arrived. 
 
-Congratulations. Wasn’t so hard, was it.
 
-  
+## Microsoft Security, Compliance & Identity Fundamentals Certified (Exam SC-900)
 
-### \> Build framework
+Microsoft Security, Compliance & Identity Fundamentals Certified (Exam SC-900) is a certification that I obtained on 01/2022, covering core concepts for security, compliance, and identity across cloud-based and related Microsoft services and platforms.
 
-Setup your Jupyter Notebook so you can iterate fast. Build a first model, maybe a random model that spits out random predictions. Is this a good baseline? Don’t ask such stupid questions, it isn’t. But this will help you build an end to end training and testing pipeline. The train-test split, pre-process placeholders, test suite. 
+* Learned essential security principles, compliance standards, and identity models including zero trust, CIA triad, access management controls, and common regulations.
+* Gained understanding of Microsoft security solutions spanning Azure, Dynamics 365, Microsoft 365, and hybrid environments to enable secure access, protection of data/assets, threat prevention, information protection policy implementation, governance frameworks, and auditing.
+* Developed skills for configuring secure Microsoft 365 tenants, architecting cloud security postures, remediating threats, responding to incidents, recovering services after outages, and determining appropriate compliance controls
+* Credential demonstrates foundational proficiency to operate in roles focused on Microsoft identity administration, cloud security architecture, compliance management, risk assessment, security operations, and related disciplines.
 
-Build now so you don’t need to keep building later. 
+In summary, the Microsoft SC-900 certification equipped me with crucial baseline knowledge spanning security, compliance, and identity topics integral to working in Microsoft-centric technology environments. It validates fundamental expertise to secure identities, support regulatory requirements, apply security controls, respond to cloud-based risks, and operate Microsoft solutions in a compliant manner.
 
-  
 
-### \> Establish baseline
 
-You have the problem statement yeah? There is gotta be some stupid simple stuff that is better than random predictions. Yes, heuristics. Pick one, or some. Get test results. Now this is the one to beat. 
 
-  
+## Microsoft Azure Fundamentals Certified (Exam AZ-900)
 
-### \> Metrics and reward function
+Microsoft Azure Fundamentals Certified (Exam AZ-900) is a certification I obtained on 09/2021, covering foundational knowledge of core Azure concepts, services, tools, and workloads.
 
-The very next thing is to establish a good metric of evaluation. Actually this should be the second point of order. But we are here, better late than later I guess.
+* Learned key capabilities and components of the Azure cloud platform, including infrastructure, compute/network/storage, data/analytics, identity, governance, privacy, and specifics of the Azure architecture
 
-This is going to be your leaderboard basically. And it should correlate _highly_ with whatever problem statement you are solving for. Take some time here. 
+* Gained understanding of administering Azure through portals, CLI, ARM templates, migrating on-prem resources, implementing governance models, managing costs and SLAs, responding to issues, and determining appropriate services for common solutions
 
-At least 2 hours. Minimum.
+* Developed baseline skills for deploying resources, configuring cloud security posture, scaling compute/data resources, networking virtual machines, shifting data with Azure Storage, leveraging PaaS options like Azure SQL, and making solution design decisions
 
-  
+* Credential demonstrates ability to have working proficiency in roles focused on Azure administration, cloud solution architecture, migrations, automation, security controls, and related fields
 
-### \> Simple algorithms first
+In summary, the Microsoft AZ-900 certification equipped me with essential knowledge of the Azure platform, services, workloads, management approaches, security controls, cost configuration and core capabilities required for foundational administration and solution development roles. It validates baseline expertise across a wide cross-section of Azure's infrastructure and service offerings.
 
-Or SAF for short. Heard of Multi Armed Bandits? Try that first. Shit’s amazing. Probably all that you’ll need.
 
-  
+## Microsoft Technology Associate Security Fundamentals Certified (Exam 98-367)
 
-* * *
+Microsoft Technology Associate Security Fundamentals Certified (Exam 98-367) is a certification I obtained in 07/2021, covering principles of security spanning network, cloud, organizational policies, threat vectors, mitigation techniques, identity models, and common infrastructure vulnerabilities.
 
-_With me so far?_ 
+* Learned essential knowledge of CIA principles, OSI model, access controls, computing vulnerabilities, social engineering attacks, cryptography, and organizational security policies/procedures
 
-_All this was within Jupyter. But predictions happen in the world outside, so we got stuff to do. Strap in. We are going outside._
+* Gained understanding of various threats vectors like malware, phishing, spoofing, DoS attacks as well as mitigation techniques through patching, encryption, firewalls, user access controls, perimeter security defenses etc.
 
-* * *
+* Developed baseline skills for hardening infrastructure against compromise, responding to common attacks, leveraging multifactor authentication, applying OWASP guidelines, and instituting security controls aligned to common risk frameworks.
 
-  
+* Credential demonstrates core proficiency spanning fundamental security topics with ability to operate in junior roles focused on infrastructure hardening, access management, policy development, vulnerability testing, technical support, and cloud security.
 
-### \> Prediction Service setup
+In summary, the Microsoft 98-367 certification equipped me with broad introductory cybersecurity knowledge covering crucial areas like organizational policies, access controls, common threats and infrastructure vulnerabilities. It validates baseline expertise needed for associate-level security roles dedicated to fundamentals like access management, hardening, authentication, testing and technical support.
 
-How you gonna do the predictions huh? You need an API or some shit. Setup a dummy service that takes in request (a user id maybe) and responds with predictions. 
 
-Find something that works with python scripts. Why? Because it is easy to convert a Jupyter Notebook to an executable script but what do I know, write in Cython for all I care. 
 
-But code well. Classes and shit. You are in production environment now. Act like it.
-
-  
-
-### \> Feature store (low latency cache)
-
-A lot of concurrent requests (QPS) and low latency requests means optimisations. Use caches and feature stores to save model weights and intermediate products. CosmosDB, Aerospike, just pick one and run with it. You know how dictionary look-ups are very fast? Same concept. Prefer lookups to on-demand processing.
-
-Keep the actual prediction service is as light as possible. Maybe it just does a dot product of vectors. Maybe you found out about ONNX runtimes and used that. 
-
-Good job!
-
-  
-
-### \> Logs, health metrics and alerting
-
-Stuff breaks. Production stuff breaks hard. You need to know when it breaks. Log stuff. Model health, pre-processing data health, maybe every request and response (RRLogs). Actually, definitely do that. ELK, Kibana, or some such crap. Then setup alerts on it. So when a bunch of predictions are throwing NULLs you will be on top of it in 1 hour rather than the product folks telling you about it after 3 days.
-
-While you are at it also set up some alerting on the infrastructure. Running at 95% memory capacity or 5% CPU capacity, both are bad. Or your Celery queue is choked to the end of times. Bad.
-
-Keep your eyes on those numbers. Better, push those numbers (Prometheus) to a dashboard (Grafana) and set up alerts (PagerDuty). 
-
-Rest those eyes until needed.
-
-  
-
-### \> Performance metrics
-
-Fancy graphs that product people see to judge how good your recommender system is working. Should contain your model performance metrics and related product metrics (Retention, Engagement, Churn, what have you). Dunno what to use? Use Metabase. If someone asks why just say I told you to.
-
-If you build this to be sufficiently standalone so all your future models can plug into it, well done, you are a good engineer.
-
-  
-
-### \> Model re-training and pipelines
-
-Models get stale. Underlying data may no longer be relevant. You gotta re-train your models. Automate that shit. 
-
-Airflow will let you schedule tasks and dependencies in what it calls DAGs. Which are just Graphs which have a particular Direction and are Acyclic. Use them. It is fancy cron and you can do some fancy cron stuff with it. 
-
-  
-
-* * *
-
-  
-
-_Congratulations. Your recommender system is now in production._ 
-
-_Soon “people” will come to you with suggestions and ideas on how to make recommendations better. They will say it is a small change, let us see how it performs._ 
-
-_Now you are thinking about an experimentation framework. Hypothesis testing. Model Controller._
-
-_Until then..._
