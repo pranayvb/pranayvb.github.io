@@ -1,8 +1,8 @@
 ---
 layout: post
-title: UMD Master's Coursework
+title: UMD Master's Fall Semester Coursework
 subtitle: My 1st Fall Semester Coursework and skills I learnt
-date: 2024-02-02 21:00:00 +0000
+date: 2023-12-02 21:00:00 +0000
 tags:
 - general
 - 

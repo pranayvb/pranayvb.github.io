@@ -2,7 +2,7 @@
 layout: post
 title:  "Certification Skills"
 subtitle:  "Skills I learnt by studying and passing these certification exams"
-date:   2024-02-02 21:21:21 +0530
+date:   2023-01-01 21:21:21 +0530
 tags: [general]
 redirect_from:
   - general
